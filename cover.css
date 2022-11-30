@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: auto;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
+
+.button {
+    border: 5px solid darkgreen;
+    background-color: darkgreen;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.sfx {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hidden {
+    text-decoration: none;
+    color:lightgreen;
+}
