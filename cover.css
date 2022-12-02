@@ -1,6 +1,16 @@
 body {
     text-align: center;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: white
+}
+
+h1 {
+    color: darkgreen;
+}
+
+b {
+    color: orange;
 }
 
 .container {
